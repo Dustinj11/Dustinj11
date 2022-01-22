@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dustinj11
 - 👀 I’m interested in changing careers currently a Police Officer in Colorado. 
-- 🌱 I’m currently learning python thorugh Udemy, and plan on doing a Javascript boot camp next year. 
+- 🌱 I’m currently in Skill Distillery's full stack Java program. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dustin.jennings11@outlook.com
 
