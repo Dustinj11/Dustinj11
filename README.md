@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dustinj11
-- 👀 I’m interested in changing careers currently a Police Officer in Colorado. 
+- 👀 I’m interested in getting into a career as a software engineer. 
 - 🌱 I’m currently in Skill Distillery's full stack Java program. 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything where I can challenge myself and learn something new. 
 - 📫 How to reach me dustin.jennings11@protonmail.com
 
 <!---
