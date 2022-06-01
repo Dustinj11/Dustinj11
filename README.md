@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dustinj11
+- 👋 Hi, I’m Dustin Jennings
 - 👀 I’m interested in getting into a career as a software engineer. 
 - 🌱 I’m currently in Skill Distillery's full stack Java program. 
 - 💞️ I’m looking to collaborate on anything where I can challenge myself and learn something new. 
